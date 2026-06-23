@@ -1,0 +1,37 @@
+# Dependencies
+node_modules
+
+# Next.js build outputs
+.next
+out
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env
+.env.*
+!.env.local
+
+# Vercel / Netlify
+.vercel
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
+
+# Database dumps / local artifacts
+*.sql
+*.sqlite
+
+# Misc
+coverage
+*.log
+
